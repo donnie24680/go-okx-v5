@@ -3,9 +3,9 @@ package rest
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/zok2/go-okx-v5"
-	requests "github.com/zok2/go-okx-v5/requests/rest/market"
-	responses "github.com/zok2/go-okx-v5/responses/market"
+	"github.com/donnie24680/go-okx-v5"
+	requests "github.com/donnie24680/go-okx-v5/requests/rest/market"
+	responses "github.com/donnie24680/go-okx-v5/responses/market"
 	"io"
 	"net/http"
 )

@@ -2,9 +2,9 @@ package rest
 
 import (
 	"encoding/json"
-	"github.com/zok2/go-okx-v5"
-	requests "github.com/zok2/go-okx-v5/requests/rest/trade"
-	responses "github.com/zok2/go-okx-v5/responses/trade"
+	"github.com/donnie24680/go-okx-v5"
+	requests "github.com/donnie24680/go-okx-v5/requests/rest/trade"
+	responses "github.com/donnie24680/go-okx-v5/responses/trade"
 	"net/http"
 )
 

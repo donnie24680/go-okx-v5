@@ -2,9 +2,9 @@ package rest
 
 import (
 	"encoding/json"
-	"github.com/zok2/go-okx-v5"
-	requests "github.com/zok2/go-okx-v5/requests/rest/subaccount"
-	responses "github.com/zok2/go-okx-v5/responses/sub_account"
+	"github.com/donnie24680/go-okx-v5"
+	requests "github.com/donnie24680/go-okx-v5/requests/rest/subaccount"
+	responses "github.com/donnie24680/go-okx-v5/responses/sub_account"
 	"net/http"
 	"strings"
 )

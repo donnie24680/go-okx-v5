@@ -2,9 +2,9 @@ package rest
 
 import (
 	"encoding/json"
-	okex "github.com/zok2/go-okx-v5"
-	requests "github.com/zok2/go-okx-v5/requests/rest/financial"
-	responses "github.com/zok2/go-okx-v5/responses/financial"
+	okex "github.com/donnie24680/go-okx-v5"
+	requests "github.com/donnie24680/go-okx-v5/requests/rest/financial"
+	responses "github.com/donnie24680/go-okx-v5/responses/financial"
 	"net/http"
 )
 

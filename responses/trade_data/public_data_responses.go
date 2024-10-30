@@ -1,8 +1,8 @@
 package trade_data
 
 import (
-	"github.com/zok2/go-okx-v5/models/tradedata"
-	"github.com/zok2/go-okx-v5/responses"
+	"github.com/donnie24680/go-okx-v5/models/tradedata"
+	"github.com/donnie24680/go-okx-v5/responses"
 )
 
 type (

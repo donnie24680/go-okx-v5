@@ -1,8 +1,8 @@
 package trade
 
 import (
-	"github.com/zok2/go-okx-v5/models/trade"
-	"github.com/zok2/go-okx-v5/responses"
+	"github.com/donnie24680/go-okx-v5/models/trade"
+	"github.com/donnie24680/go-okx-v5/responses"
 )
 
 type (

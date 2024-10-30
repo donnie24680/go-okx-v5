@@ -1,6 +1,6 @@
 package market
 
-import "github.com/zok2/go-okx-v5"
+import "github.com/donnie24680/go-okx-v5"
 
 type (
 	GetTickers struct {

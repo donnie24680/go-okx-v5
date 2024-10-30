@@ -2,10 +2,10 @@ package ws
 
 import (
 	"encoding/json"
-	"github.com/zok2/go-okx-v5"
-	"github.com/zok2/go-okx-v5/events"
-	"github.com/zok2/go-okx-v5/events/private"
-	requests "github.com/zok2/go-okx-v5/requests/ws/private"
+	"github.com/donnie24680/go-okx-v5"
+	"github.com/donnie24680/go-okx-v5/events"
+	"github.com/donnie24680/go-okx-v5/events/private"
+	requests "github.com/donnie24680/go-okx-v5/requests/ws/private"
 )
 
 // Private

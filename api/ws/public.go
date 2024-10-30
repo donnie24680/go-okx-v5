@@ -3,10 +3,10 @@ package ws
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/zok2/go-okx-v5"
-	"github.com/zok2/go-okx-v5/events"
-	"github.com/zok2/go-okx-v5/events/public"
-	requests "github.com/zok2/go-okx-v5/requests/ws/public"
+	"github.com/donnie24680/go-okx-v5"
+	"github.com/donnie24680/go-okx-v5/events"
+	"github.com/donnie24680/go-okx-v5/events/public"
+	requests "github.com/donnie24680/go-okx-v5/requests/ws/public"
 	"strings"
 )
 

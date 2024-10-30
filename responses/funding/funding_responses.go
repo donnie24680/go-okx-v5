@@ -1,8 +1,8 @@
 package funding
 
 import (
-	models "github.com/zok2/go-okx-v5/models/funding"
-	"github.com/zok2/go-okx-v5/responses"
+	models "github.com/donnie24680/go-okx-v5/models/funding"
+	"github.com/donnie24680/go-okx-v5/responses"
 )
 
 type (

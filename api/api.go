@@ -2,9 +2,9 @@ package api
 
 import (
 	"context"
-	"github.com/zok2/go-okx-v5"
-	"github.com/zok2/go-okx-v5/api/rest"
-	"github.com/zok2/go-okx-v5/api/ws"
+	"github.com/donnie24680/go-okx-v5"
+	"github.com/donnie24680/go-okx-v5/api/rest"
+	"github.com/donnie24680/go-okx-v5/api/ws"
 )
 
 // Client is the main api wrapper of okex

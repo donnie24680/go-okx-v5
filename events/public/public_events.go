@@ -1,9 +1,9 @@
 package public
 
 import (
-	"github.com/zok2/go-okx-v5/events"
-	"github.com/zok2/go-okx-v5/models/market"
-	"github.com/zok2/go-okx-v5/models/publicdata"
+	"github.com/donnie24680/go-okx-v5/events"
+	"github.com/donnie24680/go-okx-v5/models/market"
+	"github.com/donnie24680/go-okx-v5/models/publicdata"
 )
 
 type (

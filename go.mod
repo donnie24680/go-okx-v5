@@ -1,4 +1,4 @@
-module github.com/zok2/go-okx-v5
+module github.com/donnie24680/go-okx-v5
 
 go 1.21
 

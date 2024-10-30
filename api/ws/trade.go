@@ -1,8 +1,8 @@
 package ws
 
 import (
-	"github.com/zok2/go-okx-v5"
-	requests "github.com/zok2/go-okx-v5/requests/ws/trade"
+	"github.com/donnie24680/go-okx-v5"
+	requests "github.com/donnie24680/go-okx-v5/requests/ws/trade"
 )
 
 // Trade

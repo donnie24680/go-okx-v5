@@ -1,8 +1,8 @@
 package market
 
 import (
-	"github.com/zok2/go-okx-v5/models/market"
-	"github.com/zok2/go-okx-v5/responses"
+	"github.com/donnie24680/go-okx-v5/models/market"
+	"github.com/donnie24680/go-okx-v5/responses"
 )
 
 type (

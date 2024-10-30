@@ -1,9 +1,9 @@
 package private
 
 import (
-	"github.com/zok2/go-okx-v5/events"
-	"github.com/zok2/go-okx-v5/models/account"
-	"github.com/zok2/go-okx-v5/models/trade"
+	"github.com/donnie24680/go-okx-v5/events"
+	"github.com/donnie24680/go-okx-v5/models/account"
+	"github.com/donnie24680/go-okx-v5/models/trade"
 )
 
 type (

@@ -2,7 +2,7 @@ package events
 
 import (
 	"encoding/json"
-	"github.com/zok2/go-okx-v5"
+	"github.com/donnie24680/go-okx-v5"
 )
 
 type (
